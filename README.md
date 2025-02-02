@@ -38,7 +38,7 @@ The dataset includes details of past SpaceX launches, including:
 - Weather conditions
 - Landing outcome (successful or failed)
 
-📥 **Source:** Data collection was conducted through **web scraping** and **APIs** from various sources, including [SpaceX API & Historical Data](https://www.kaggle.com/datasets).
+📥 **Source:** Data collection was conducted through **web scraping** and **APIs** from various sources, including [SpaceX API & Historical Data](https://www.kaggle.com/datasets/spacex-launch-data).
 
 ## 🚀 Model Evaluation
 ### Models Evaluated:
